@@ -1,0 +1,7 @@
+#RANDOMFOREST REQUIREMENTS
+
+pandas
+numpy
+seaborn
+matplotlib
+sklearn
